@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Movie App</string>
+    <string name="movie">movie</string>
+    <string name="sub_title">sub title</string>
+    <string name="movie_info">Movie Info :</string>
+    <string name="release_date">ReleaseDate:</string>
+    <string name="_2019">2019</string>
+    <string name="rating">Rating:</string>
+    <string name="_8">8</string>
+    <string name="runtime">Runtime:</string>
+    <string name="_2_3_hr">2.3 hr</string>
+    <string name="budget">Budget:</string>
+    <string name="_130_000">130,000</string>
+    <string name="revenue">Revenue:</string>
+    <string name="_130_000_">130,000</string>
+    <string name="overview">Overview :</string>
+    <string name="overview_">overview .........</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="rate">Rate</string>
+    <string name="lang">Lang</string>
+    <string name="date">Date</string>
+</resources>
