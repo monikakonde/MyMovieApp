@@ -1,5 +1,5 @@
-# MyMovieApp
-MyMovieApp is a modern Android application built using Kotlin, MVVM architecture, Retrofit, and Coil that allows users to browse popular movies and view detailed information including the poster, rating, release date, budget, revenue, and more. It consumes TMDB (The Movie Database) API to fetch live data dynamically.
+# MovieScan
+MovieScan is a modern Android application built using Kotlin, MVVM architecture, Retrofit, and Coil that allows users to browse popular movies and view detailed information including the poster, rating, release date, budget, revenue, and more. It consumes TMDB (The Movie Database) API to fetch live data dynamically.
 
 # Features
 1. Browse Popular Movies: Loads a paginated list of trending/popular movies.
